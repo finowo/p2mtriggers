@@ -76,7 +76,7 @@ sar_on_load cond "cm & map=sp_a4_jump_polarity" "exec sp/chapter8/a4_jump_polari
 sar_on_load cond "cm & map=sp_a4_finale1" "exec sp/chapter9/a4_finale1"
 sar_on_load cond "cm & map=sp_a4_finale2" "exec sp/chapter9/a4_finale2"
 sar_on_load cond "cm & map=sp_a4_finale3" "exec sp/chapter9/a4_finale3"
-// sar_on_load cond "cm & map=sp_a4_finale4""exec sp/chapter9/a4_finale4" FINALE 4 TRIGGERS HAVE NOT BEEN DONE
+sar_on_load cond "cm & map=sp_a4_finale4" "exec sp/chapter9/a4_finale4" 
 
 
 
