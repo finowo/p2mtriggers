@@ -1,11 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Portal 2</GameName>
   <CategoryName>Test</CategoryName>
   <Metadata>
     <Run id="" />
-    <Platform usesEmulator="False">PC</Platform>
+    <Platform usesEmulator="False">
+    </Platform>
     <Region>
     </Region>
     <Variables />
@@ -14,100 +15,57 @@
   <AttemptCount>0</AttemptCount>
   <Segments>
     <Segment>
-      <Name>Cube Throw</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:00:42.1200000</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:06.9960000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="0">
-          <RealTime>00:00:08.6140000</RealTime>
-        </Time>
-      </SegmentHistory>
-    </Segment>
-    <Segment>
-      <Name>Lift</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:00:52.0020000</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:09.8820000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Button Press</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:01:12.1580000</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:20.1560000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Ending Room</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:01:15.3940000</RealTime>
-        </SplitTime>
-      </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:03.2360000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>Ending Room Entry</Name>
+      <Name>Start Dialogue</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
       </SplitTimes>
       <BestSegmentTime />
-      <SegmentHistory>
-        <Time id="-1" />
-      </SegmentHistory>
+      <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Elevator Entry</Name>
+      <Name>Cube Throw</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:01:16.3780000</RealTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:00.5560000</RealTime>
-      </BestSegmentTime>
-      <SegmentHistory>
-        <Time id="-1">
-          <RealTime>00:00:00.5560000</RealTime>
-        </Time>
-      </SegmentHistory>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Enter Elevator</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>First Solve</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Trigger Elevator</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
     </Segment>
     <Segment>
       <Name>End</Name>
       <Icon />
       <SplitTimes>
-        <SplitTime name="Personal Best">
-          <RealTime>00:01:39.2830000</RealTime>
-        </SplitTime>
+        <SplitTime name="Personal Best" />
       </SplitTimes>
-      <BestSegmentTime>
-        <RealTime>00:00:22.9050000</RealTime>
-      </BestSegmentTime>
+      <BestSegmentTime />
       <SegmentHistory />
     </Segment>
   </Segments>
