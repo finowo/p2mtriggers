@@ -19,3 +19,5 @@ exec Coopmtriggers.cfg
 If you want to use livesplit with CM you will need to do sar_speedrun_IL 1.
 After every finished run you will have to reset LiveSplit.
 You can make a global hotkey to reset and set it to be your restart_level key or something similar.
+
+this is a test pr
